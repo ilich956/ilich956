@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilyas</h1>
 <h3 align="center">A passionate developer from Kazakhstan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilich956&label=Profile%20views&color=0e75b6&style=flat" alt="ilich956" /> </p>
 
-- 🔭 I’m currently working on [Taskify](https://github.com/whateveer/Taskify)
 
 - 📫 How to reach me **ilyasabijanov@gmail.com**
 
